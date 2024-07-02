@@ -6,6 +6,24 @@
   /* outline: 1px solid red; */
 }
 
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    display: block;
+}
+
+h1, h2, h3, p {
+    margin: 0;
+}
+
   body {
     font-family: "Roboto Condensed";
   }
